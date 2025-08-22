@@ -11,7 +11,10 @@ Welcome to **Cute Journal** — a simple, aesthetic digital journal where you ca
 - 🌐 Hosted with **GitHub Pages**  
 
 ---
+## 📸 Preview
+<img width="1915" height="881" alt="image" src="https://github.com/user-attachments/assets/127ef642-0308-4948-9e4a-8ab14026d310" />
 
+---
 
 ## 🚀 Live Demo
 👉 [Click here to view Cute Journal]([https://sangeetha1707.github.io/cute-journal/])  
